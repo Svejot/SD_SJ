@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SmartDrive</string>
+    <string name="button1">Persönliche Daten ändern</string>
+    <string name="interessen">Interessen:</string>
+    <string name="name">Name</string>
+    <string name="alter">Alter</string>
+    <string name="beschreibung">Beschreibung</string>
+    <string name="zurück">Zurück</string>
+    <string name="button2">Speichern</string>
+    
+    <string-array  name="Interessen">
+        <item>Shoppen</item>
+        <item>Sport</item>
+        <item>Fußball</item>
+    </string-array>
+
+
+</resources>
